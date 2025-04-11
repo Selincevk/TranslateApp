@@ -1,14 +1,43 @@
-# React + Vite
+<h1>Çeviri+</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+"Çeviri+", kullanıcıların farklı diller arasında metin çevirisi yapmasını sağlayan bir web uygulamasıdır. Kullanıcılar kaynak dili ve hedef dili seçerek, girdikleri metni hızlıca çevirebilirler. Arayüz sade ve kullanıcı dostudur.
 
-Currently, two official plugins are available:
+<h1> 🚀 Özellikler </h1>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Dil Seçimi: Otomatik dil algılama (Detect Language) veya manuel kaynak/hedef dil seçimi
 
-## Expanding the ESLint configuration
+- Dil Değişimi: Kaynak ve hedef dili kolayca yer değiştirme
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# TranslateApp
-# TranslateApp
+- Metin Girişi: Çevirilecek metni girme ve çeviri sonucunu görme
+
+- Anında Çeviri: Tek tuşla API üzerinden çeviri
+
+- Yüklenme Göstergesi: Çeviri sırasında loader animasyonu
+
+- Hata Yönetimi: Hatalı durumlarda kullanıcı bilgilendirme
+
+<h1>⚙️ Kullanılan Teknolojiler</h1>
+
+- React – UI geliştirme
+
+- Redux Toolkit – Global state yönetimi
+
+- Axios – API istekleri
+
+- React Select – Gelişmiş select kutusu
+
+- TailwindCSS – Stil yönetimi
+
+- React Icons – Görsel ikon desteği
+
+- AsyncThunk – Asenkron Redux aksiyonları
+
+<h1>🎯 Bilgilendirme </h1>
+
+- Redux ile state yapısı sade ve yönetilebilir şekilde kuruldu.
+
+- RapidAPI entegrasyonu yapılırken çevre değişkenlerine önem verildi.
+
+- Kullanıcı deneyimi için loader, hata mesajı ve stil geçişleri eklendi.
+
+- Kod yapısı modüler olarak ayrıldı ve okunabilirlik artırıldı.
