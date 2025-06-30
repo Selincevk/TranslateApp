@@ -41,3 +41,7 @@
 - Kullanıcı deneyimi için loader, hata mesajı ve stil geçişleri eklendi.
 
 - Kod yapısı modüler olarak ayrıldı ve okunabilirlik artırıldı.
+
+<h1>DEMO</h1>
+
+![](/translate.gif)
